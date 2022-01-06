@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kaanarslan1990.github.io/csb-ex8pu/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kaanarslan1990.github.io/csb-ex8pu/static/js/main.cb566b18.chunk.js",
+    "main.js.map": "https://kaanarslan1990.github.io/csb-ex8pu/static/js/main.cb566b18.chunk.js.map",
+    "runtime-main.js": "https://kaanarslan1990.github.io/csb-ex8pu/static/js/runtime-main.5d7b6569.js",
+    "runtime-main.js.map": "https://kaanarslan1990.github.io/csb-ex8pu/static/js/runtime-main.5d7b6569.js.map",
+    "static/js/2.0774e1f9.chunk.js": "https://kaanarslan1990.github.io/csb-ex8pu/static/js/2.0774e1f9.chunk.js",
+    "static/js/2.0774e1f9.chunk.js.map": "https://kaanarslan1990.github.io/csb-ex8pu/static/js/2.0774e1f9.chunk.js.map",
+    "index.html": "https://kaanarslan1990.github.io/csb-ex8pu/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kaanarslan1990.github.io/csb-ex8pu/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0774e1f9.chunk.js.LICENSE.txt": "https://kaanarslan1990.github.io/csb-ex8pu/static/js/2.0774e1f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d7b6569.js",
+    "static/js/2.0774e1f9.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.cb566b18.chunk.js"
+  ]
+}
